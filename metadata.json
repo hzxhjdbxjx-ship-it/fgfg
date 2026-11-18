@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix RoboVoiceCall - AI Voice Calling Platform",
+  "description": "Autonomous AI robo voice call platform with real-time conversational phone agents, outbound campaign automation, live call simulator, and deep voice analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
